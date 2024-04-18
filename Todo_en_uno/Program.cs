@@ -23,10 +23,11 @@ switch (estacion)
 string[] numeroromanos = new string[20];
 numeroromanos = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"];
 Console.WriteLine("\nIngrese un numero romano: ");
-int num = Convert.ToInt32(Console.ReadLine());
+string num = Console.ReadLine();
 for(int i = 0; i<= 19; ++i){
   string c = numeroromanos[i];
-  if(i == num - 1){    
-    Console.WriteLine($"{c}");    
+  int contador = i + 1;
+  if(c == num){    
+    Console.WriteLine($"{contador}");    
   }
 }
