@@ -1,0 +1,59 @@
+# Historia de Usuario No. 1
+
+## Desarollo de la calculadora
+
+`Como usuario, necesito ingresar el valor en romano y obtenger de resultado el numero entero`
+
+## Descripción
+
+Ingresar un numero romano y el codigo tiene que iterar en una lista comparado cada uno de ellos cuando encuentre el correcto muestra el numero en entero del mismo.
+
+## Criterios de Aceptación
+
+Lista detallada de condiciones que debe cumplir la historia para considerarse completada.
+
+1. **Criterio de Aceptación 1**
+   - El usuario puede ingresar un numero romano
+   - El sistema debe mostrar el resultado en entero
+2. **Criterio de Aceptación 2**
+   - La no se deben ingresar valores ajenos a los detallados de uno al veinte
+   - El resultado debe ser un numero romano individual
+
+## Prioridad
+
+Alta
+
+## Estimación
+
+Esta historia de usuario se estima que tomara aproximadamente 20 minutos para completarse.
+
+## Notas/Tareas Adicionales
+
+  Espacio para anotar cualquier tarea adicional, notas, o dependencias relacionadas con esta historia de usuario.
+
+- [ ] Mas adelante hacer cambios para que si se ingresa un valor que no se contempla que el programa vuelva a preguntar
+- [ ] Mas adelante poder dar un mayor rango de numeros romanos
+- [ ] Mas adelante hacer cambios a la interfaz para que se vea mas bonita
+## Prototipos/Anexos
+
+Incluir cualquier prototipo, wireframe, diagrama o anexos que ayuden a entender mejor la historia de usuario.
+
+- 
+
+## Discusiones
+
+Resumen de las discusiones importantes que han tenido lugar en relación con esta historia de usuario. Incluir decisiones clave y justificaciones.
+
+1. **Discusión 1**
+   - Resumen de la discusión
+   - Decisiones y justificaciones
+2. **Discusión 2**
+   - Resumen de la discusión
+   - Decisiones y justificaciones
+
+## Historial de Cambios
+
+Registro de cambios significativos en la historia de usuario, incluyendo fechas y detalles del cambio.
+
+- **[18/04/24]** Cambio realizado por [Gerard Gonzalez] - Comenzo el proyecto
+- **[Fecha]** Cambio realizado por [Persona] - Detalle del cambio
